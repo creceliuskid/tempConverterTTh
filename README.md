@@ -1,2 +1,0 @@
-# tempConverterTTh
-Created with CodeSandbox
